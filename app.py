@@ -1,1 +1,5 @@
-name = input("Adinizi daxil edin: ") 
+name = input("Adinizi daxil edin: ")  
+age = int(input("Yasinizi daxil edin: "))  
+print(f"Salam, {name}!")  
+print(f"Siz {age} yasindasiniz.")  
+print(f"G?l?n il {age + 1} yasinda olacaqsiniz.")  
