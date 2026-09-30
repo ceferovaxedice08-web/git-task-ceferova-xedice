@@ -1,4 +1,4 @@
-# Git v? GitHub praktiki tapsiriq  
-**Ad, soyad:** C?f?rova X?dic? **Qrup:** IT  
-## Layih?nin qisa izahi  
-Bu layih? Git v? GitHub praktiki tapsirigi ÅáÅn hazirlanmisdir. Layih?d? sad? HTML s?hif? v? Python proqrami var.  
+# Git ve GitHub praktiki tapsiriq  
+**Ad, soyad:** Ceferova Xedice **Qrup:** IT  
+## Layihenin qisa izahi  
+Bu layihe Git ve GitHub praktiki tapsiriqi ucun hazirlanmisdir. Layihedeki sade HTML sehife ve Python proqrami var.  
